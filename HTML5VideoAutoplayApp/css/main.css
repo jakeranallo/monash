@@ -1,0 +1,28 @@
+
+/*div.questions {
+  opacity: 1;
+  z-index: 1;
+  transform: translateX(-660px);
+  transition: opacity 250ms;
+  -webkit-transition: opacity 250ms;
+}*/
+
+.hidden {
+  visibility: hidden;
+  display: none;
+}
+
+.hidden-submit {
+  display: none;
+}
+
+.fade-next {
+  opacity: 0;
+  transform: translateX(-660px);
+  transition: opacity 250ms;
+  -webkit-transition: opacity 250ms;
+}
+
+.fadeIn {
+  opacity: 1;
+}
